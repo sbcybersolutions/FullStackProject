@@ -31,3 +31,4 @@ C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ServerApp\obj\Debug\
 C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ServerApp\obj\Debug\net9.0\ServerApp.pdb
 C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ServerApp\obj\Debug\net9.0\ServerApp.genruntimeconfig.cache
 C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ServerApp\obj\Debug\net9.0\ref\ServerApp.dll
+C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ServerApp\obj\Debug\net9.0\ServerApp.sourcelink.json

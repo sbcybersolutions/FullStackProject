@@ -1,4 +1,4 @@
-
+@using System.Text.Json
 
 @page "/fetchproducts"
 @using System.Net.Http.Json
@@ -26,14 +26,20 @@
     protected override async Task OnInitializedAsync()
     {
         try
-        {
-            products = await Http.GetFromJsonAsync<Product[]>("/api/products");
-        }
-        catch (Exception ex)
-        {
-            Console.Error.WriteLine($"Failed to load products: {ex.Message}");
-            products = Array.Empty<Product>();
-        }
+            {
+                var response = await Http.GetAsync("/api/productlist");
+                response.EnsureSuccessStatusCode();
+                var json = await response.Content.ReadAsStringAsync();
+                Console.WriteLine($"Raw JSON: {json}"); // See what you're working with
+                products = JsonSerializer.Deserialize<Product[]>(json, new JsonSerializerOptions
+{
+                PropertyNameCaseInsensitive = true
+});
+            }
+                catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+            }
     }
 
     public class Product

@@ -13,8 +13,13 @@ builder.Services.AddCors(options =>
 
 
 var app = builder.Build();
-app.UseCors();
-app.MapGet("/api/products", () =>
+app.UseCors(policy =>
+{
+    policy.AllowAnyOrigin() // Allow any origin for development purposes
+          .AllowAnyHeader()
+          .AllowAnyMethod();
+});
+app.MapGet("/api/productlist", () =>
 {
     return new[]
     {
