@@ -1,7 +1,10 @@
 // ServerApp - Minimal API Entry Point
 using ServerApp.Models;
+using Microsoft.Extensions.Caching.Memory;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddMemoryCache();
 
 // Configure CORS for local ClientApp
 builder.Services.AddCors(options =>
@@ -20,27 +23,41 @@ var app = builder.Build();
 app.UseCors();
 
 // Minimal endpoint for product listing
-app.MapGet("/api/productlist", () =>
+
+
+app.MapGet("/api/productlist", (IMemoryCache cache) =>
 {
-    var products = new[]
+    const string cacheKey = "product_list";
+
+    if (!cache.TryGetValue(cacheKey, out Product[] products))
     {
-        new Product
+        // Simulated data fetch
+        products = new[]
         {
-            Id = 1,
-            Name = "Laptop",
-            Price = 1200.50,
-            Stock = 25,
-            Category = new Category { Id = 101, Name = "Electronics" }
-        },
-        new Product
-        {
-            Id = 2,
-            Name = "Headphones",
-            Price = 50.00,
-            Stock = 100,
-            Category = new Category { Id = 102, Name = "Accessories" }
-        }
-    };
+            new Product
+            {
+                Id = 1,
+                Name = "Laptop",
+                Price = 1200.50,
+                Stock = 25,
+                Category = new Category { Id = 101, Name = "Electronics" }
+            },
+            new Product
+            {
+                Id = 2,
+                Name = "Headphones",
+                Price = 50.00,
+                Stock = 100,
+                Category = new Category { Id = 102, Name = "Accessories" }
+            }
+        };
+
+        // Set cache options
+        var cacheEntryOptions = new MemoryCacheEntryOptions()
+            .SetSlidingExpiration(TimeSpan.FromMinutes(5));
+
+        cache.Set(cacheKey, products, cacheEntryOptions);
+    }
 
     return Results.Ok(products);
 });

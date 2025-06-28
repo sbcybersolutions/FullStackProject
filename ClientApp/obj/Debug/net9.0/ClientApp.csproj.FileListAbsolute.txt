@@ -1075,10 +1075,10 @@ C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\obj\Debug\
 C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\obj\Debug\net9.0\ClientApp.pdb
 C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\obj\Debug\net9.0\ref\ClientApp.dll
 C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\obj\Debug\net9.0\ClientApp.sourcelink.json
-C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.n830gv4o54.pdb
-C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.vmck9ue26g.wasm
-C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.n830gv4o54.pdb.gz
-C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.vmck9ue26g.wasm.gz
-C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\kwzkrbi5h4-vmck9ue26g.gz
-C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\ftph3tm72y-n830gv4o54.gz
-C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\rot3wv43ix-c5ue0hnso7.gz
+C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.67gvkiegw3.pdb
+C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.mc63isi9jf.wasm
+C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.67gvkiegw3.pdb.gz
+C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.mc63isi9jf.wasm.gz
+C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\kwzkrbi5h4-mc63isi9jf.gz
+C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\ftph3tm72y-67gvkiegw3.gz
+C:\Users\chris\OneDrive\Coursera\MS Full Stack\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\rot3wv43ix-5vi3tnb0ry.gz

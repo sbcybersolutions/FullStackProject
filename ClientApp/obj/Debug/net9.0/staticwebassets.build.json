@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EllkU0WEnML3H7CaCtx6kIdHYbIonvPOTvEmizzWu+I=",
+  "Hash": "MpOC9o9dzDGUCIc06Xohqs38hZdbYCkv3kyfeg1VeHY=",
   "Source": "ClientApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "c5ue0hnso7",
-      "Integrity": "IOTMFWROnIx2Fjwv8Q44Bo4GRFtphttC3LyWWt7+jA4=",
+      "Fingerprint": "5vi3tnb0ry",
+      "Integrity": "QSsX9WKLKO1p3+3rkY7DKrtBs7ucRDjf2TM3cVMi1Xk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "n830gv4o54",
-      "Integrity": "ZzwLovwBgjlCYB+h8yOcbsucFkBAM2Frv+BxbnJxN28=",
+      "Fingerprint": "67gvkiegw3",
+      "Integrity": "PqCGSViP4ziWN0CStth/NOMyXXVobT2KaMJG8UcgQYc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\ClientApp.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "vmck9ue26g",
-      "Integrity": "CUJWt5lrtw6BDlYMqClXiMT95dXsD5I/enI3HG3ChfA=",
+      "Fingerprint": "mc63isi9jf",
+      "Integrity": "5uTXGcS7cVA7JzZ8LsbZHbm8/qNkJrNrF1wb36jPXXg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\webcil\\ClientApp.wasm"
@@ -6695,12 +6695,12 @@
       "OriginalItemSpec": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Win32.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\ftph3tm72y-n830gv4o54.gz",
+      "Identity": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\ftph3tm72y-67gvkiegw3.gz",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ClientApp#[.{fingerprint=n830gv4o54}]!.pdb.gz",
+      "RelativePath": "_framework/ClientApp#[.{fingerprint=67gvkiegw3}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6709,8 +6709,8 @@
       "RelatedAsset": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ClientApp.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "gvk016jtca",
-      "Integrity": "VK229HlN3oSFL3NPpx5/fkgRlFOVDH6zoakNp95ECK4=",
+      "Fingerprint": "bhbse2zst9",
+      "Integrity": "4ZAg13dbli2sgLxy/5sslDiDrjmV+53QAJDlQakg7xs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ClientApp.pdb"
@@ -7367,12 +7367,12 @@
       "OriginalItemSpec": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\kwzkrbi5h4-vmck9ue26g.gz",
+      "Identity": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\kwzkrbi5h4-mc63isi9jf.gz",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ClientApp#[.{fingerprint=vmck9ue26g}]!.wasm.gz",
+      "RelativePath": "_framework/ClientApp#[.{fingerprint=mc63isi9jf}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7381,8 +7381,8 @@
       "RelatedAsset": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ClientApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mos5ggdc2v",
-      "Integrity": "ir8K9eNOPgbkeR9kAberhjsGbAVwnTZTiwyfrM/uOjg=",
+      "Fingerprint": "9h5zt9hnr3",
+      "Integrity": "fdfOaHlst9dw83EYH9sDAqUAzrbyD+duDsgiQkw52KU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ClientApp.wasm"
@@ -8186,7 +8186,7 @@
       "OriginalItemSpec": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.wasm"
     },
     {
-      "Identity": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\rot3wv43ix-c5ue0hnso7.gz",
+      "Identity": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\rot3wv43ix-5vi3tnb0ry.gz",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\",
@@ -8200,8 +8200,8 @@
       "RelatedAsset": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "y4wzgkz1px",
-      "Integrity": "ct2im/8Bx+pzNoFN4q8iy36AJnOWoUeVBzhpthqEKoU=",
+      "Fingerprint": "zyad0n3pge",
+      "Integrity": "y6SXFsFUVVYKWezCdKd8dTrF39MYyze10+2O/2Di3vQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -10705,7 +10705,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IOTMFWROnIx2Fjwv8Q44Bo4GRFtphttC3LyWWt7+jA4=\""
+          "Value": "\"QSsX9WKLKO1p3+3rkY7DKrtBs7ucRDjf2TM3cVMi1Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 14:25:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QSsX9WKLKO1p3+3rkY7DKrtBs7ucRDjf2TM3cVMi1Xk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\rot3wv43ix-5vi3tnb0ry.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081214976"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12312"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y6SXFsFUVVYKWezCdKd8dTrF39MYyze10+2O/2Di3vQ=\""
         },
         {
           "Name": "Last-Modified",
@@ -10714,45 +10753,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-IOTMFWROnIx2Fjwv8Q44Bo4GRFtphttC3LyWWt7+jA4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\rot3wv43ix-c5ue0hnso7.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081234768"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12309"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ct2im/8Bx+pzNoFN4q8iy36AJnOWoUeVBzhpthqEKoU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:47:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IOTMFWROnIx2Fjwv8Q44Bo4GRFtphttC3LyWWt7+jA4=\""
+          "Value": "W/\"QSsX9WKLKO1p3+3rkY7DKrtBs7ucRDjf2TM3cVMi1Xk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IOTMFWROnIx2Fjwv8Q44Bo4GRFtphttC3LyWWt7+jA4="
+          "Value": "sha256-QSsX9WKLKO1p3+3rkY7DKrtBs7ucRDjf2TM3cVMi1Xk="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\rot3wv43ix-c5ue0hnso7.gz",
+      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\rot3wv43ix-5vi3tnb0ry.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12309"
+          "Value": "12312"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ct2im/8Bx+pzNoFN4q8iy36AJnOWoUeVBzhpthqEKoU=\""
+          "Value": "\"y6SXFsFUVVYKWezCdKd8dTrF39MYyze10+2O/2Di3vQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:47:30 GMT"
+          "Value": "Sat, 28 Jun 2025 13:50:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ct2im/8Bx+pzNoFN4q8iy36AJnOWoUeVBzhpthqEKoU="
+          "Value": "sha256-y6SXFsFUVVYKWezCdKd8dTrF39MYyze10+2O/2Di3vQ="
         }
       ]
     },
@@ -10961,7 +10961,7 @@
       ]
     },
     {
-      "Route": "_framework/ClientApp.n830gv4o54.pdb",
+      "Route": "_framework/ClientApp.67gvkiegw3.pdb",
       "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ClientApp.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10971,7 +10971,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26228"
+          "Value": "27336"
         },
         {
           "Name": "Content-Type",
@@ -10979,11 +10979,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZzwLovwBgjlCYB+h8yOcbsucFkBAM2Frv+BxbnJxN28=\""
+          "Value": "\"PqCGSViP4ziWN0CStth/NOMyXXVobT2KaMJG8UcgQYc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:50:16 GMT"
+          "Value": "Sat, 28 Jun 2025 14:25:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10993,7 +10993,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n830gv4o54"
+          "Value": "67gvkiegw3"
         },
         {
           "Name": "label",
@@ -11001,18 +11001,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZzwLovwBgjlCYB+h8yOcbsucFkBAM2Frv+BxbnJxN28="
+          "Value": "sha256-PqCGSViP4ziWN0CStth/NOMyXXVobT2KaMJG8UcgQYc="
         }
       ]
     },
     {
-      "Route": "_framework/ClientApp.n830gv4o54.pdb",
-      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\ftph3tm72y-n830gv4o54.gz",
+      "Route": "_framework/ClientApp.67gvkiegw3.pdb",
+      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\ftph3tm72y-67gvkiegw3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000051859151"
+          "Quality": "0.000050474460"
         }
       ],
       "ResponseHeaders": [
@@ -11022,15 +11022,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19282"
+          "Value": "19811"
         },
         {
           "Name": "ETag",
-          "Value": "\"VK229HlN3oSFL3NPpx5/fkgRlFOVDH6zoakNp95ECK4=\""
+          "Value": "\"4ZAg13dbli2sgLxy/5sslDiDrjmV+53QAJDlQakg7xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:50:20 GMT"
+          "Value": "Sat, 28 Jun 2025 14:25:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11050,13 +11050,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZzwLovwBgjlCYB+h8yOcbsucFkBAM2Frv+BxbnJxN28=\""
+          "Value": "W/\"PqCGSViP4ziWN0CStth/NOMyXXVobT2KaMJG8UcgQYc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n830gv4o54"
+          "Value": "67gvkiegw3"
         },
         {
           "Name": "label",
@@ -11064,13 +11064,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZzwLovwBgjlCYB+h8yOcbsucFkBAM2Frv+BxbnJxN28="
+          "Value": "sha256-PqCGSViP4ziWN0CStth/NOMyXXVobT2KaMJG8UcgQYc="
         }
       ]
     },
     {
-      "Route": "_framework/ClientApp.n830gv4o54.pdb.gz",
-      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\ftph3tm72y-n830gv4o54.gz",
+      "Route": "_framework/ClientApp.67gvkiegw3.pdb.gz",
+      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\ftph3tm72y-67gvkiegw3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11079,7 +11079,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19282"
+          "Value": "19811"
         },
         {
           "Name": "Content-Type",
@@ -11087,11 +11087,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VK229HlN3oSFL3NPpx5/fkgRlFOVDH6zoakNp95ECK4=\""
+          "Value": "\"4ZAg13dbli2sgLxy/5sslDiDrjmV+53QAJDlQakg7xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:50:20 GMT"
+          "Value": "Sat, 28 Jun 2025 14:25:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11109,7 +11109,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n830gv4o54"
+          "Value": "67gvkiegw3"
         },
         {
           "Name": "label",
@@ -11117,7 +11117,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VK229HlN3oSFL3NPpx5/fkgRlFOVDH6zoakNp95ECK4="
+          "Value": "sha256-4ZAg13dbli2sgLxy/5sslDiDrjmV+53QAJDlQakg7xs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ClientApp.mc63isi9jf.wasm",
+      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ClientApp.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5uTXGcS7cVA7JzZ8LsbZHbm8/qNkJrNrF1wb36jPXXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 14:25:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mc63isi9jf"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ClientApp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5uTXGcS7cVA7JzZ8LsbZHbm8/qNkJrNrF1wb36jPXXg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ClientApp.mc63isi9jf.wasm",
+      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\kwzkrbi5h4-mc63isi9jf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000097181730"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10289"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fdfOaHlst9dw83EYH9sDAqUAzrbyD+duDsgiQkw52KU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 14:25:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5uTXGcS7cVA7JzZ8LsbZHbm8/qNkJrNrF1wb36jPXXg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mc63isi9jf"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ClientApp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5uTXGcS7cVA7JzZ8LsbZHbm8/qNkJrNrF1wb36jPXXg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ClientApp.mc63isi9jf.wasm.gz",
+      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\kwzkrbi5h4-mc63isi9jf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fdfOaHlst9dw83EYH9sDAqUAzrbyD+duDsgiQkw52KU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 14:25:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mc63isi9jf"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ClientApp.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fdfOaHlst9dw83EYH9sDAqUAzrbyD+duDsgiQkw52KU="
         }
       ]
     },
@@ -11132,7 +11293,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26228"
+          "Value": "27336"
         },
         {
           "Name": "Content-Type",
@@ -11140,11 +11301,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZzwLovwBgjlCYB+h8yOcbsucFkBAM2Frv+BxbnJxN28=\""
+          "Value": "\"PqCGSViP4ziWN0CStth/NOMyXXVobT2KaMJG8UcgQYc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:50:16 GMT"
+          "Value": "Sat, 28 Jun 2025 14:25:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11154,18 +11315,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZzwLovwBgjlCYB+h8yOcbsucFkBAM2Frv+BxbnJxN28="
+          "Value": "sha256-PqCGSViP4ziWN0CStth/NOMyXXVobT2KaMJG8UcgQYc="
         }
       ]
     },
     {
       "Route": "_framework/ClientApp.pdb",
-      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\ftph3tm72y-n830gv4o54.gz",
+      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\ftph3tm72y-67gvkiegw3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000051859151"
+          "Quality": "0.000050474460"
         }
       ],
       "ResponseHeaders": [
@@ -11175,15 +11336,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19282"
+          "Value": "19811"
         },
         {
           "Name": "ETag",
-          "Value": "\"VK229HlN3oSFL3NPpx5/fkgRlFOVDH6zoakNp95ECK4=\""
+          "Value": "\"4ZAg13dbli2sgLxy/5sslDiDrjmV+53QAJDlQakg7xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:50:20 GMT"
+          "Value": "Sat, 28 Jun 2025 14:25:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11203,19 +11364,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZzwLovwBgjlCYB+h8yOcbsucFkBAM2Frv+BxbnJxN28=\""
+          "Value": "W/\"PqCGSViP4ziWN0CStth/NOMyXXVobT2KaMJG8UcgQYc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZzwLovwBgjlCYB+h8yOcbsucFkBAM2Frv+BxbnJxN28="
+          "Value": "sha256-PqCGSViP4ziWN0CStth/NOMyXXVobT2KaMJG8UcgQYc="
         }
       ]
     },
     {
       "Route": "_framework/ClientApp.pdb.gz",
-      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\ftph3tm72y-n830gv4o54.gz",
+      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\ftph3tm72y-67gvkiegw3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11224,7 +11385,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19282"
+          "Value": "19811"
         },
         {
           "Name": "Content-Type",
@@ -11232,11 +11393,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VK229HlN3oSFL3NPpx5/fkgRlFOVDH6zoakNp95ECK4=\""
+          "Value": "\"4ZAg13dbli2sgLxy/5sslDiDrjmV+53QAJDlQakg7xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:50:20 GMT"
+          "Value": "Sat, 28 Jun 2025 14:25:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11254,168 +11415,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VK229HlN3oSFL3NPpx5/fkgRlFOVDH6zoakNp95ECK4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ClientApp.vmck9ue26g.wasm",
-      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ClientApp.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "20757"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CUJWt5lrtw6BDlYMqClXiMT95dXsD5I/enI3HG3ChfA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:50:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vmck9ue26g"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ClientApp.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CUJWt5lrtw6BDlYMqClXiMT95dXsD5I/enI3HG3ChfA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ClientApp.vmck9ue26g.wasm",
-      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\kwzkrbi5h4-vmck9ue26g.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000108483402"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9217"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ir8K9eNOPgbkeR9kAberhjsGbAVwnTZTiwyfrM/uOjg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:50:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"CUJWt5lrtw6BDlYMqClXiMT95dXsD5I/enI3HG3ChfA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vmck9ue26g"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ClientApp.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CUJWt5lrtw6BDlYMqClXiMT95dXsD5I/enI3HG3ChfA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ClientApp.vmck9ue26g.wasm.gz",
-      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\kwzkrbi5h4-vmck9ue26g.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9217"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ir8K9eNOPgbkeR9kAberhjsGbAVwnTZTiwyfrM/uOjg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:50:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vmck9ue26g"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ClientApp.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ir8K9eNOPgbkeR9kAberhjsGbAVwnTZTiwyfrM/uOjg="
+          "Value": "sha256-4ZAg13dbli2sgLxy/5sslDiDrjmV+53QAJDlQakg7xs="
         }
       ]
     },
@@ -11430,7 +11430,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20757"
+          "Value": "23317"
         },
         {
           "Name": "Content-Type",
@@ -11438,11 +11438,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CUJWt5lrtw6BDlYMqClXiMT95dXsD5I/enI3HG3ChfA=\""
+          "Value": "\"5uTXGcS7cVA7JzZ8LsbZHbm8/qNkJrNrF1wb36jPXXg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:50:16 GMT"
+          "Value": "Sat, 28 Jun 2025 14:25:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11452,18 +11452,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CUJWt5lrtw6BDlYMqClXiMT95dXsD5I/enI3HG3ChfA="
+          "Value": "sha256-5uTXGcS7cVA7JzZ8LsbZHbm8/qNkJrNrF1wb36jPXXg="
         }
       ]
     },
     {
       "Route": "_framework/ClientApp.wasm",
-      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\kwzkrbi5h4-vmck9ue26g.gz",
+      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\kwzkrbi5h4-mc63isi9jf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000108483402"
+          "Quality": "0.000097181730"
         }
       ],
       "ResponseHeaders": [
@@ -11473,15 +11473,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9217"
+          "Value": "10289"
         },
         {
           "Name": "ETag",
-          "Value": "\"ir8K9eNOPgbkeR9kAberhjsGbAVwnTZTiwyfrM/uOjg=\""
+          "Value": "\"fdfOaHlst9dw83EYH9sDAqUAzrbyD+duDsgiQkw52KU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:50:20 GMT"
+          "Value": "Sat, 28 Jun 2025 14:25:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11501,19 +11501,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CUJWt5lrtw6BDlYMqClXiMT95dXsD5I/enI3HG3ChfA=\""
+          "Value": "W/\"5uTXGcS7cVA7JzZ8LsbZHbm8/qNkJrNrF1wb36jPXXg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CUJWt5lrtw6BDlYMqClXiMT95dXsD5I/enI3HG3ChfA="
+          "Value": "sha256-5uTXGcS7cVA7JzZ8LsbZHbm8/qNkJrNrF1wb36jPXXg="
         }
       ]
     },
     {
       "Route": "_framework/ClientApp.wasm.gz",
-      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\kwzkrbi5h4-vmck9ue26g.gz",
+      "AssetFile": "C:\\Users\\chris\\OneDrive\\Coursera\\MS Full Stack\\FullStackApp\\ClientApp\\obj\\Debug\\net9.0\\compressed\\kwzkrbi5h4-mc63isi9jf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11522,7 +11522,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9217"
+          "Value": "10289"
         },
         {
           "Name": "Content-Type",
@@ -11530,11 +11530,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ir8K9eNOPgbkeR9kAberhjsGbAVwnTZTiwyfrM/uOjg=\""
+          "Value": "\"fdfOaHlst9dw83EYH9sDAqUAzrbyD+duDsgiQkw52KU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 28 Jun 2025 13:50:20 GMT"
+          "Value": "Sat, 28 Jun 2025 14:25:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11552,7 +11552,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ir8K9eNOPgbkeR9kAberhjsGbAVwnTZTiwyfrM/uOjg="
+          "Value": "sha256-fdfOaHlst9dw83EYH9sDAqUAzrbyD+duDsgiQkw52KU="
         }
       ]
     },

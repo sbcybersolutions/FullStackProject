@@ -11,6 +11,7 @@ var builder = WebAssemblyHostBuilder.CreateDefault(args);
 // Register root components
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
+builder.Services.AddScoped<ProductService>();
 
 // Configure HttpClient with the base address from the environment
 builder.Services.AddScoped<HttpClient>(sp =>
