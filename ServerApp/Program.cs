@@ -1,31 +1,48 @@
-// Minimal API Back-End (ServerApp.cs)
+// ServerApp - Minimal API Entry Point
+using ServerApp.Models;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Configure CORS for local ClientApp
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(policy =>
     {
-        policy.WithOrigins("http://localhost:5106") // ClientApp's address
+        policy.WithOrigins("http://localhost:5106") // Adjust as needed for your front-end origin
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
 });
 
-
 var app = builder.Build();
-app.UseCors(policy =>
-{
-    policy.AllowAnyOrigin() // Allow any origin for development purposes
-          .AllowAnyHeader()
-          .AllowAnyMethod();
-});
+
+// Enable CORS globally
+app.UseCors();
+
+// Minimal endpoint for product listing
 app.MapGet("/api/productlist", () =>
 {
-    return new[]
+    var products = new[]
     {
-        new { Id = 1, Name = "Laptop", Price = 1200.50, Stock = 25 },
-        new { Id = 2, Name = "Headphones", Price = 50.00, Stock = 100 },
-            };
+        new Product
+        {
+            Id = 1,
+            Name = "Laptop",
+            Price = 1200.50,
+            Stock = 25,
+            Category = new Category { Id = 101, Name = "Electronics" }
+        },
+        new Product
+        {
+            Id = 2,
+            Name = "Headphones",
+            Price = 50.00,
+            Stock = 100,
+            Category = new Category { Id = 102, Name = "Accessories" }
+        }
+    };
+
+    return Results.Ok(products);
 });
 
 app.Run();
